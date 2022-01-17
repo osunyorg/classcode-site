@@ -1,0 +1,6 @@
+---
+- title: Actualités
+  target: "/posts/"
+  kind: news
+  children: []
+
