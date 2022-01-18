@@ -3,4 +3,12 @@
   target: "/posts/"
   kind: news
   children: []
+- title: Maîtriser la pensée informatique pour la transmettre
+  target: "/home/"
+  kind: page
+  children: []
+- title: La formation
+  target: "/la-formation/"
+  kind: page
+  children: []
 
