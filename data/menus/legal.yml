@@ -1,2 +1,6 @@
---- []
+---
+- title: Crédits et mentions légales
+  target: "/mentions-legales/"
+  kind: page
+  children: []
 
