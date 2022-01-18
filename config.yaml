@@ -5,7 +5,7 @@ defaultContentLanguage: fr
 baseURL:
 languages:
   fr:
-    title: Osuny template
+    title: Class'Code
 theme: osuny-hugo-theme
 paginate: 18
 permalinks:
