@@ -7,4 +7,8 @@
   target: "/home/"
   kind: page
   children: []
+- title: La formation
+  target: "/la-formation/"
+  kind: page
+  children: []
 
