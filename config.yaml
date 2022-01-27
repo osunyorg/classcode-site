@@ -1,5 +1,6 @@
 params:
-  cookie_page: https://gdpr.eu/cookies/
+  cookie_banner:
+    enable: false
 baseURL: /
 defaultContentLanguage: fr
 languageCode: fr
