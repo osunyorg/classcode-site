@@ -7,10 +7,6 @@
   target: "/home/"
   kind: page
   children: []
-- title: La formation
-  target: "/la-formation/"
-  kind: page
-  children: []
 - title: Thématiques
   target: "/la-formation/"
   kind: page
