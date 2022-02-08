@@ -12,7 +12,7 @@
   kind: page
   children: []
 - title: Thématiques
-  target: "/"
-  kind: blank
+  target: "/la-formation/"
+  kind: page
   children: []
 
