@@ -32,7 +32,11 @@
   kind: blank
   children: []
 - title: Thématiques
-  target: "/offre-de-formation/"
+  target: "/thematiques/"
   kind: programs
-  children: []
+  children:
+  - title: Toutes les thématiques
+    target: "/thematiques/"
+    kind: programs
+    children: []
 
