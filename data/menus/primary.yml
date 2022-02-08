@@ -39,4 +39,8 @@
     target: "/thematiques/"
     kind: programs
     children: []
+  - title: Programmation créative
+    target: "/thematiques/programmation-creative/"
+    kind: program
+    children: []
 
