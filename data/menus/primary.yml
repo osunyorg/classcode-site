@@ -31,4 +31,8 @@
   target: "/"
   kind: blank
   children: []
+- title: Thématiques
+  target: "/offre-de-formation/"
+  kind: programs
+  children: []
 
