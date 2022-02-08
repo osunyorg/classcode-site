@@ -10,5 +10,9 @@
 - title: Thématiques
   target: "/la-formation/"
   kind: page
-  children: []
+  children:
+  - title: Programmation créative
+    target: "/la-formation/programmation-creative/"
+    kind: page
+    children: []
 
