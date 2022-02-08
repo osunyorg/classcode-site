@@ -1,6 +1,6 @@
 ---
 - title: Actualités
-  target: "/posts/"
+  target: "/actualites/"
   kind: news
   children: []
 - title: Maîtriser la pensée informatique pour la transmettre
@@ -11,7 +11,7 @@
   target: "/la-formation/"
   kind: page
   children: []
-- title: THEMATIQUES
+- title: Thématiques
   target: "/"
   kind: blank
   children: []
