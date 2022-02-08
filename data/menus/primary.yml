@@ -1,4 +1,12 @@
 ---
+- title: Association
+  target: "/association/"
+  kind: page
+  children: []
+- title: Actions
+  target: "/actions/"
+  kind: page
+  children: []
 - title: Actualités
   target: "/actualites/"
   kind: news
@@ -15,12 +23,4 @@
     target: "/la-formation/information/"
     kind: page
     children: []
-- title: Association
-  target: "/association/"
-  kind: page
-  children: []
-- title: Actions
-  target: "/actions/"
-  kind: page
-  children: []
 
