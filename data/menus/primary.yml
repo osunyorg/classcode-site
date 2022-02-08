@@ -15,4 +15,8 @@
     target: "/la-formation/programmation-creative/"
     kind: page
     children: []
+  - title: Manipuler l'information
+    target: "/la-formation/information/"
+    kind: page
+    children: []
 
