@@ -44,7 +44,7 @@
     kind: program
     children: []
 - title: Équipe
-  target: "/equipe-administrative/"
-  kind: administrators
+  target: "/equipe/"
+  kind: staff
   children: []
 
