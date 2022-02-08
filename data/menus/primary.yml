@@ -11,4 +11,8 @@
   target: "/la-formation/"
   kind: page
   children: []
+- title: THEMATIQUES
+  target: "/"
+  kind: blank
+  children: []
 
