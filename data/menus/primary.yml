@@ -19,4 +19,8 @@
   target: "/association/"
   kind: page
   children: []
+- title: Actions
+  target: "/actions/"
+  kind: page
+  children: []
 
