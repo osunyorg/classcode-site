@@ -19,6 +19,10 @@
     target: "/la-formation/information/"
     kind: page
     children: []
+  - title: Impacts environnementaux du numérique
+    target: "/la-formation/impacts-environnementaux-du-numerique/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
