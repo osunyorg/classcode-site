@@ -3,14 +3,6 @@
   target: "/association/"
   kind: page
   children: []
-- title: Actions
-  target: "/actions/"
-  kind: page
-  children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: news
-  children: []
 - title: Thématiques
   target: "/la-formation/"
   kind: page
@@ -23,4 +15,12 @@
     target: "/la-formation/information/"
     kind: page
     children: []
+- title: Actions
+  target: "/actions/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: news
+  children: []
 
