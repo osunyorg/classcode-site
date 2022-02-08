@@ -23,6 +23,10 @@
     target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
+  - title: S'initier à la robotique
+    target: "/la-formation/sinitier-a-la-robotique/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
