@@ -43,4 +43,8 @@
     target: "/thematiques/programmation-creative/"
     kind: program
     children: []
+- title: Équipe
+  target: "/equipe-administrative/"
+  kind: administrators
+  children: []
 
