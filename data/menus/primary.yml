@@ -3,10 +3,6 @@
   target: "/actualites/"
   kind: news
   children: []
-- title: Maîtriser la pensée informatique pour la transmettre
-  target: "/home/"
-  kind: page
-  children: []
 - title: Thématiques
   target: "/la-formation/"
   kind: page
@@ -19,4 +15,8 @@
     target: "/la-formation/information/"
     kind: page
     children: []
+- title: Association
+  target: "/association/"
+  kind: page
+  children: []
 
