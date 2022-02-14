@@ -1,8 +1,4 @@
 ---
-- title: Association
-  target: "/association/"
-  kind: page
-  children: []
 - title: Actualités
   target: "/actualites/"
   kind: news
@@ -54,5 +50,9 @@
 - title: Équipe
   target: "/equipe/"
   kind: staff
+  children: []
+- title: Association
+  target: "/association/"
+  kind: page
   children: []
 
