@@ -35,18 +35,6 @@
   target: "/"
   kind: blank
   children: []
-- title: Thématiques
-  target: "/thematiques/"
-  kind: programs
-  children:
-  - title: Toutes les thématiques
-    target: "/thematiques/"
-    kind: programs
-    children: []
-  - title: Programmation créative
-    target: "/thematiques/programmation-creative/"
-    kind: program
-    children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
