@@ -1,0 +1,26 @@
+<div class="page">
+  <div class="media">
+    {{- if .Params.image -}}
+      {{- partial "commons/image.html"
+            (dict
+              "image"    .Params.image
+              "alt"      .Title
+              "mobile"   "351x291"
+              "tablet"   "334x167"
+              "desktop"  "634x317"
+            ) -}}
+    {{- else -}}
+      {{- partial "commons/image-default.html" (dict "class" "img-fluid") -}}
+    {{- end -}}
+  </div>
+  <div>
+    <p class="title">
+      <a href="{{ .Permalink }}" class="link">
+        {{ safeHTML (partial "CorrectPunctuation" .Title) }}
+      </a>
+    </p>
+    {{ if .Params.description }}
+      <p>{{ truncate 120 (safeHTML .Params.description) }}</p>
+    {{ end }}
+  </div>
+</div>

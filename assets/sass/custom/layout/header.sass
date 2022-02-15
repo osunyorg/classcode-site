@@ -1,4 +1,10 @@
 header[role=banner]
-    .logo img
-        height: 20px
-        width: auto
+    background-color: $primary
+    color: white
+    .logo
+        img
+            @include media-breakpoint-up(lg)
+                height: 45px
+                widows: auto
+    button
+        color: white
