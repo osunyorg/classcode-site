@@ -82,7 +82,11 @@
       - title: Activités débranchées
         target: "/ressources/activites-debranchees/"
         kind: page
-        children: []
+        children:
+        - title: Activités branchées
+          target: "/ressources/activites-branchees/"
+          kind: page
+          children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
