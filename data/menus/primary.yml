@@ -12,7 +12,7 @@
     kind: program
     children: []
   - title: Manipuler l'information
-    target: "/la-formation/information/"
+    target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
   - title: Impacts environnementaux du numérique
