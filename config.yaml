@@ -10,6 +10,8 @@ languages:
 theme: osuny-hugo-theme
 paginate: 18
 permalinks:
+  posts:          /actualites/:year/:month/:day/:slug/
+  categories:     /actualites/:slug/
   pages:          /:slug/
 taxonomies:
   administrator:  administrators
