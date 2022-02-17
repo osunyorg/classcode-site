@@ -11,10 +11,6 @@
     target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
-  - title: Impacts environnementaux du numérique
-    target: "/thematiques/impacts-environnementaux-du-numerique/"
-    kind: program
-    children: []
   - title: L'Intelligence Artificielle... avec intelligence !
     target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
     kind: page
