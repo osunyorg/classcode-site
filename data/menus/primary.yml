@@ -8,6 +8,10 @@
   kind: page
   children:
   - title: Impacts environnementaux du numérique
+    target: "/la-formation/impacts-environnementaux-du-numerique/"
+    kind: page
+    children: []
+  - title: Impacts environnementaux du numérique
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: program
     children: []
@@ -37,10 +41,6 @@
     children: []
   - title: Gérer un projet informatique avec des enfants
     target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
-  - title: Impacts environnementaux du numérique
-    target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
 - title: Actions
