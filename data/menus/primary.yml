@@ -71,10 +71,6 @@
   target: "/"
   kind: blank
   children: []
-- title: Reseau
-  target: "/"
-  kind: blank
-  children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
