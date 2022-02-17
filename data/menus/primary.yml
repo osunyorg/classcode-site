@@ -74,7 +74,11 @@
   - title: Vidéo
     target: "/ressources/video/"
     kind: page
-    children: []
+    children:
+    - title: Articles
+      target: "/ressources/articles/"
+      kind: page
+      children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
