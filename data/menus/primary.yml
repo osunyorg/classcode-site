@@ -26,7 +26,11 @@
 - title: Actions
   target: "/actions/"
   kind: page
-  children: []
+  children:
+  - title: Ressources éducatives libre
+    target: "/actions/mooc-et-ressources-educatives-libres/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
