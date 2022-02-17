@@ -91,6 +91,10 @@
     target: "/ressources/articles/"
     kind: page
     children: []
+  - title: Activités débranchées
+    target: "/ressources/activites-debranchees/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
