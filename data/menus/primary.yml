@@ -39,6 +39,10 @@
     target: "/actions/apprentissage-entre-pairs/"
     kind: page
     children: []
+  - title: Ateliers multi-acteurs
+    target: "/actions/ateliers-multi-acteurs/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
