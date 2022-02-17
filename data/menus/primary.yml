@@ -39,7 +39,7 @@
     target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
-- title: Actions
+- title: Formats
   target: "/actions/"
   kind: page
   children:
