@@ -39,6 +39,10 @@
     target: "/la-formation/sciences-numeriques-et-technologie/"
     kind: page
     children: []
+  - title: L'Intelligence Artificielle... avec intelligence !
+    target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
