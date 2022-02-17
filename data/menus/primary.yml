@@ -70,7 +70,11 @@
 - title: Ressources
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Vidéo
+    target: "/ressources/video/"
+    kind: page
+    children: []
 - title: Équipe
   target: "/equipe/"
   kind: staff
