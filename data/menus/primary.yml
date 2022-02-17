@@ -8,8 +8,8 @@
   kind: page
   children:
   - title: Programmation créative
-    target: "/la-formation/programmation-creative/"
-    kind: page
+    target: "/thematiques/programmation-creative/"
+    kind: program
     children: []
   - title: Manipuler l'information
     target: "/la-formation/information/"
