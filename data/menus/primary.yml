@@ -67,4 +67,8 @@
   target: "/actions/mooc-et-ressources-educatives-libres/"
   kind: page
   children: []
+- title: Connecter le réseau
+  target: "/la-formation/connecter-le-reseau/"
+  kind: page
+  children: []
 
