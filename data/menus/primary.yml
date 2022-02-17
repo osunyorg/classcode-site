@@ -11,12 +11,12 @@
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: program
     children: []
-  - title: Programmation créative
-    target: "/la-formation/programmation-creative/"
-    kind: page
-    children: []
   - title: Impact'Num-page
     target: "/la-formation/impacts-environnementaux-du-numerique/"
+    kind: page
+    children: []
+  - title: Programmation créative
+    target: "/la-formation/programmation-creative/"
     kind: page
     children: []
   - title: S'initier à la robotique
