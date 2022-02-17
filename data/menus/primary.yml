@@ -35,6 +35,10 @@
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
+  - title: Apprentissage entre pairs
+    target: "/actions/apprentissage-entre-pairs/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
