@@ -31,6 +31,10 @@
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
+  - title: Webinaires et conférences
+    target: "/actions/webinaires-et-conferences/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
