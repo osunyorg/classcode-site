@@ -7,31 +7,67 @@
   target: "/la-formation/"
   kind: page
   children:
-  - title: Programmation créative
-    target: "/thematiques/programmation-creative/"
-    kind: program
-    children: []
-  - title: Manipuler l'information
-    target: "/la-formation/information/"
+  - title: Impacts environnementaux du numérique
+    target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
-  - title: Impacts environnementaux du numérique
-    target: "/thematiques/impacts-environnementaux-du-numerique/"
-    kind: program
+  - title: L'Intelligence Artificielle... avec intelligence !
+    target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
+    kind: page
+    children: []
+  - title: Sciences numériques et technologie
+    target: "/la-formation/sciences-numeriques-et-technologie/"
+    kind: page
+    children: []
+  - title: Programmation créative
+    target: "/la-formation/programmation-creative/"
+    kind: page
     children: []
   - title: S'initier à la robotique
     target: "/la-formation/sinitier-a-la-robotique/"
     kind: page
     children: []
+  - title: Connecter le réseau
+    target: "/la-formation/connecter-le-reseau/"
+    kind: page
+    children: []
+  - title: Manipuler l'information
+    target: "/la-formation/information/"
+    kind: page
+    children: []
+  - title: Gérer un projet informatique avec des enfants
+    target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
-  children: []
+  children:
+  - title: Ressources éducatives libre
+    target: "/actions/mooc-et-ressources-educatives-libres/"
+    kind: page
+    children: []
+  - title: Webinaires et conférences
+    target: "/actions/webinaires-et-conferences/"
+    kind: page
+    children: []
+  - title: Apprentissage entre pairs
+    target: "/actions/apprentissage-entre-pairs/"
+    kind: page
+    children: []
+  - title: Ateliers multi-acteurs
+    target: "/actions/ateliers-multi-acteurs/"
+    kind: page
+    children: []
+  - title: Formations sur mesure
+    target: "/actions/formations-sur-mesure/"
+    kind: page
+    children: []
+  - title: Animation de réseau et séminaire
+    target: "/actions/animation-de-reseau-et-seminaire/"
+    kind: page
+    children: []
 - title: Ressources
-  target: "/"
-  kind: blank
-  children: []
-- title: Reseau
   target: "/"
   kind: blank
   children: []
