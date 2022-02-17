@@ -43,6 +43,10 @@
     target: "/actions/ateliers-multi-acteurs/"
     kind: page
     children: []
+  - title: Formations sur mesure
+    target: "/actions/formations-sur-mesure/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
