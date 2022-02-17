@@ -23,6 +23,10 @@
     target: "/la-formation/sinitier-a-la-robotique/"
     kind: page
     children: []
+  - title: Connecter le réseau
+    target: "/la-formation/connecter-le-reseau/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
@@ -65,10 +69,6 @@
   children: []
 - title: Mooc
   target: "/actions/mooc-et-ressources-educatives-libres/"
-  kind: page
-  children: []
-- title: Connecter le réseau
-  target: "/la-formation/connecter-le-reseau/"
   kind: page
   children: []
 
