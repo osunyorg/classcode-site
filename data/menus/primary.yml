@@ -7,6 +7,10 @@
   target: "/la-formation/"
   kind: page
   children:
+  - title: Impacts environnementaux du numérique
+    target: "/thematiques/impacts-environnementaux-du-numerique/"
+    kind: program
+    children: []
   - title: Programmation créative
     target: "/la-formation/programmation-creative/"
     kind: page
@@ -14,10 +18,6 @@
   - title: Impact'Num-page
     target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
-    children: []
-  - title: Impacts environnementaux du numérique
-    target: "/thematiques/impacts-environnementaux-du-numerique/"
-    kind: program
     children: []
   - title: S'initier à la robotique
     target: "/la-formation/sinitier-a-la-robotique/"
