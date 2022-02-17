@@ -59,6 +59,10 @@
     target: "/actions/formations-sur-mesure/"
     kind: page
     children: []
+  - title: Animation de réseau et séminaire
+    target: "/actions/animation-de-reseau-et-seminaire/"
+    kind: page
+    children: []
 - title: Ressources
   target: "/"
   kind: blank
