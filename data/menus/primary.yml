@@ -43,4 +43,8 @@
   target: "/association/"
   kind: page
   children: []
+- title: Mooc
+  target: "/actions/mooc-et-ressources-educatives-libres/"
+  kind: page
+  children: []
 
