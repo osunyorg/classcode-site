@@ -15,10 +15,6 @@
     target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
     kind: page
     children: []
-  - title: Impact'Num-page
-    target: "/la-formation/impacts-environnementaux-du-numerique/"
-    kind: page
-    children: []
   - title: Programmation créative
     target: "/la-formation/programmation-creative/"
     kind: page
@@ -41,6 +37,10 @@
     children: []
   - title: Sciences numériques et technologie
     target: "/la-formation/sciences-numeriques-et-technologie/"
+    kind: page
+    children: []
+  - title: Impact'Num-page
+    target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
 - title: Actions
