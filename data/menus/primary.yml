@@ -40,7 +40,7 @@
     kind: page
     children: []
   - title: Impacts environnementaux du numérique -formation
-    target: "/thematiques/impacts-environnementaux-du-numerique/"
+    target: "/offre-de-formation/impacts-environnementaux-du-numerique/"
     kind: program
     children: []
 - title: Actions
@@ -78,19 +78,7 @@
   - title: Vidéo
     target: "/ressources/video/"
     kind: page
-    children:
-    - title: Articles
-      target: "/ressources/articles/"
-      kind: page
-      children:
-      - title: Activités débranchées
-        target: "/ressources/activites-debranchees/"
-        kind: page
-        children:
-        - title: Activités branchées
-          target: "/ressources/activites-branchees/"
-          kind: page
-          children: []
+    children: []
   - title: Articles
     target: "/ressources/articles/"
     kind: page
