@@ -27,6 +27,10 @@
     target: "/la-formation/connecter-le-reseau/"
     kind: page
     children: []
+  - title: Manipuler l'information
+    target: "/la-formation/information/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
