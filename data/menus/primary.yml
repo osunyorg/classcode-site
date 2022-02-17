@@ -31,6 +31,10 @@
     target: "/la-formation/information/"
     kind: page
     children: []
+  - title: Gérer un projet informatique avec des enfants
+    target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
