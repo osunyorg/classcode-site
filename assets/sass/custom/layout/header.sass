@@ -1,10 +1,20 @@
 header[role=banner]
-    background-color: $primary
     color: white
+    left: 0
+    position: absolute
+    right: 0
+    top: 0
+    z-index: 1
     .logo
         img
-            @include media-breakpoint-up(lg)
-                height: 45px
-                widows: auto
+            height: 45px
+            width: auto
     button
         color: white
+
+    .navbar
+        @include media-breakpoint-up(lg)
+            padding-bottom: px2rem(30)
+            padding-top: px2rem(30)
+        > .container
+            align-items: flex-start
