@@ -51,14 +51,6 @@
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
-  - title: Apprentissage entre pairs
-    target: "/actions/apprentissage-entre-pairs/"
-    kind: page
-    children: []
-  - title: Ateliers multi-acteurs
-    target: "/actions/ateliers-multi-acteurs/"
-    kind: page
-    children: []
   - title: Formations sur mesure
     target: "/actions/formations-sur-mesure/"
     kind: page
