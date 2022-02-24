@@ -87,10 +87,6 @@
     target: "/ressources/activites-branchees/"
     kind: page
     children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: staff
-  children: []
 - title: Association
   target: "/association/"
   kind: page
