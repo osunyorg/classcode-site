@@ -59,4 +59,8 @@
   target: "/association/"
   kind: page
   children: []
+- title: Impacts environnementaux du numérique
+  target: "/offre-de-formation/impacts-environnementaux-du-numerique/"
+  kind: program
+  children: []
 
