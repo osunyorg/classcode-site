@@ -51,7 +51,7 @@
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
-  - title: Animation de réseau et séminaire
+  - title: Réseau
     target: "/actions/animation-de-reseau-et-seminaire/"
     kind: page
     children: []
