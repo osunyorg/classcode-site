@@ -43,7 +43,7 @@
   target: "/actions/"
   kind: page
   children:
-  - title: Ressources éducatives libre
+  - title: Ressources
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
