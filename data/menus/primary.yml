@@ -35,6 +35,10 @@
     target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
+  - title: L'Intelligence Artificielle... avec intelligence !
+    target: "/la-formation/lintelligence-artificielle-avec-intelligence-1/"
+    kind: page
+    children: []
 - title: Actions
   target: "/actions/"
   kind: page
