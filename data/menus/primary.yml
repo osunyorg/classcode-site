@@ -35,10 +35,6 @@
     target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
-  - title: Impacts environnementaux du numérique -formation
-    target: "/offre-de-formation/impacts-environnementaux-du-numerique/"
-    kind: program
-    children: []
 - title: Actions
   target: "/actions/"
   kind: page
