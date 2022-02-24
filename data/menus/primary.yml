@@ -47,7 +47,7 @@
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
-  - title: Webinaires et conférences
+  - title: Modalités
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
