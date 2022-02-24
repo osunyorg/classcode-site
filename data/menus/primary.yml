@@ -67,26 +67,6 @@
     target: "/actions/animation-de-reseau-et-seminaire/"
     kind: page
     children: []
-- title: Ressources
-  target: "/"
-  kind: blank
-  children:
-  - title: Vidéo
-    target: "/ressources/video/"
-    kind: page
-    children: []
-  - title: Articles
-    target: "/ressources/articles/"
-    kind: page
-    children: []
-  - title: Activités débranchées
-    target: "/ressources/activites-debranchees/"
-    kind: page
-    children: []
-  - title: Activités branchées
-    target: "/ressources/activites-branchees/"
-    kind: page
-    children: []
 - title: Association
   target: "/association/"
   kind: page
