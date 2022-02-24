@@ -11,7 +11,8 @@ Mise à jour avec
 brew upgrade hugo
 ```
 
-## Template osuny hugo
+
+## Template hugo osuny
 https://github.com/noesya/osuny-hugo-template
 
 Pour faire la mise à jour :
@@ -38,5 +39,21 @@ git pull --recurse-submodules
 Pour lancer le site
 ```
 yarn
-hugo server
+yarn watch
+```
+
+
+## Netlify
+Pour déployer le site avec Netlify, penser à ajouter la deploy key.
+
+
+## Params
+
+Les params principaux sont dans config.yaml du theme, pour en ajouter ou modifier il faut overider dans config/_defaults/config.yaml
+```
+cdnkey: https://osuny-1b4da.kxcdn.com
+cookie_banner:
+  enable: true
+  blank: true
+  page: https://gdpr.eu/cookies/
 ```
