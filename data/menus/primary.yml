@@ -11,6 +11,10 @@
     target: "/la-formation/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
+  - title: L'Intelligence Artificielle... avec intelligence !
+    target: "/la-formation/lintelligence-artificielle-avec-intelligence-1/"
+    kind: page
+    children: []
   - title: Sciences numériques et technologie
     target: "/la-formation/sciences-numeriques-et-technologie/"
     kind: page
@@ -37,10 +41,6 @@
     children: []
   - title: Gérer un projet informatique avec des enfants
     target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
-  - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/la-formation/lintelligence-artificielle-avec-intelligence-1/"
     kind: page
     children: []
 - title: Actions
