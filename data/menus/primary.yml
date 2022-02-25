@@ -12,7 +12,7 @@
     kind: page
     children: []
   - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/la-formation/lintelligence-artificielle-avec-intelligence-1/"
+    target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
     kind: page
     children: []
   - title: Sciences numériques et technologie
@@ -51,7 +51,7 @@
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
-  - title: Modalités
+  - title: Formations
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
