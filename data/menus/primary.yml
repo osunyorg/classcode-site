@@ -48,7 +48,7 @@
     kind: page
     children: []
   - title: Animation de formations
-    target: "/actions/webinaires-et-conferences/"
+    target: "/actions/animation-de-formations/"
     kind: page
     children: []
   - title: Structuration de réseau
