@@ -51,10 +51,6 @@
     target: "/actions/animation-de-formations/"
     kind: page
     children: []
-  - title: Structuration de réseau
-    target: "/actions/animation-de-reseau-et-seminaire/"
-    kind: page
-    children: []
 - title: Association
   target: "/association/"
   kind: page
