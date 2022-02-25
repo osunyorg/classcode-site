@@ -58,7 +58,11 @@
 - title: Association
   target: "/association/"
   kind: page
-  children: []
+  children:
+  - title: Contributeurs
+    target: "/equipe-pedagogique/"
+    kind: teachers
+    children: []
 - title: Ressources
   target: "/ressources/"
   kind: page
