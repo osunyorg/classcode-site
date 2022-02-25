@@ -59,12 +59,12 @@
   target: "/association/"
   kind: page
   children:
-  - title: Contributeurs
-    target: "/equipe-pedagogique/"
-    kind: teachers
-    children: []
   - title: L'équipe
     target: "/equipe-administrative/"
     kind: administrators
-    children: []
+    children:
+    - title: Contributeurs
+      target: "/equipe-pedagogique/"
+      kind: teachers
+      children: []
 
