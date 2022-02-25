@@ -54,9 +54,5 @@
 - title: Association
   target: "/association/"
   kind: page
-  children:
-  - title: Qui sommes-nous ?
-    target: "/association/"
-    kind: page
-    children: []
+  children: []
 
