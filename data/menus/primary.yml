@@ -67,8 +67,4 @@
     target: "/equipe-administrative/"
     kind: administrators
     children: []
-- title: Ressources
-  target: "/ressources/"
-  kind: page
-  children: []
 
