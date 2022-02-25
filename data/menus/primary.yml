@@ -63,6 +63,10 @@
     target: "/equipe-pedagogique/"
     kind: teachers
     children: []
+  - title: L'équipe
+    target: "/equipe-administrative/"
+    kind: administrators
+    children: []
 - title: Ressources
   target: "/ressources/"
   kind: page
