@@ -59,6 +59,10 @@
   target: "/association/"
   kind: page
   children:
+  - title: Qui sommes-nous ?
+    target: "/association/"
+    kind: page
+    children: []
   - title: L'équipe
     target: "/equipe-administrative/"
     kind: administrators
@@ -67,8 +71,4 @@
       target: "/equipe-pedagogique/"
       kind: teachers
       children: []
-  - title: Qui sommes-nous ?
-    target: "/association/"
-    kind: page
-    children: []
 
