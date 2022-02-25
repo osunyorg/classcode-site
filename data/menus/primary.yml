@@ -4,39 +4,39 @@
   kind: news
   children: []
 - title: Thématiques
-  target: "/la-formation/"
+  target: "/thematiques/"
   kind: page
   children:
   - title: Impacts environnementaux du numérique
-    target: "/la-formation/impacts-environnementaux-du-numerique/"
+    target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
   - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/la-formation/lintelligence-artificielle-avec-intelligence/"
+    target: "/thematiques/lintelligence-artificielle-avec-intelligence/"
     kind: page
     children: []
   - title: Sciences numériques et technologie
-    target: "/la-formation/sciences-numeriques-et-technologie/"
+    target: "/thematiques/sciences-numeriques-et-technologie/"
     kind: page
     children: []
   - title: Programmation créative
-    target: "/la-formation/programmation-creative/"
+    target: "/thematiques/programmation-creative/"
     kind: page
     children: []
   - title: S'initier à la robotique
-    target: "/la-formation/sinitier-a-la-robotique/"
+    target: "/thematiques/sinitier-a-la-robotique/"
     kind: page
     children: []
   - title: Connecter le réseau
-    target: "/la-formation/connecter-le-reseau/"
+    target: "/thematiques/connecter-le-reseau/"
     kind: page
     children: []
   - title: Manipuler l'information
-    target: "/la-formation/information/"
+    target: "/thematiques/information/"
     kind: page
     children: []
   - title: Gérer un projet informatique avec des enfants
-    target: "/la-formation/gerer-un-projet-informatique-avec-des-enfants/"
+    target: "/thematiques/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
 - title: Actions
