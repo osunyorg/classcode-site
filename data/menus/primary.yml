@@ -51,7 +51,7 @@
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
-  - title: Formations
+  - title: Animation de formations
     target: "/actions/webinaires-et-conferences/"
     kind: page
     children: []
