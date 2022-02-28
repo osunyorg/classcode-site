@@ -58,9 +58,5 @@
 - title: Association
   target: "/association/"
   kind: page
-  children:
-  - title: Equipe
-    target: "/equipe/"
-    kind: staff
-    children: []
+  children: []
 
