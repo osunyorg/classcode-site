@@ -59,4 +59,8 @@
   target: "/actualites/actualite/interview/"
   kind: news_category
   children: []
+- title: Témoignage
+  target: "/actualites/actualite/interview/"
+  kind: news_category
+  children: []
 
