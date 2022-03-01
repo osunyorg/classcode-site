@@ -59,8 +59,4 @@
   target: "/association/"
   kind: page
   children: []
-- title: Témoignages
-  target: "/actualites/actualite/interview/"
-  kind: news_category
-  children: []
 
