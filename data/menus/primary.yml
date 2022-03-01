@@ -2,11 +2,11 @@
 - title: Actualités
   target: "/actualites/"
   kind: news
-  children: []
-- title: Témoignage
-  target: "/actualites/actualite/interview/"
-  kind: news_category
-  children: []
+  children:
+  - title: Témoignage
+    target: "/actualites/actualite/interview/"
+    kind: news_category
+    children: []
 - title: Thématiques
   target: "/thematiques/"
   kind: page
