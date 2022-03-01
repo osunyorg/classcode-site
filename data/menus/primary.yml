@@ -11,6 +11,10 @@
     target: "/actualites/actions/"
     kind: news_category
     children: []
+  - title: Réseau
+    target: "/actualites/actions/animation-de-reseau/"
+    kind: news_category
+    children: []
 - title: Thématiques
   target: "/thematiques/"
   kind: page
