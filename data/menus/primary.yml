@@ -3,12 +3,12 @@
   target: "/actualites/"
   kind: news
   children:
-  - title: Témoignage
-    target: "/actualites/actualite/interview/"
-    kind: news_category
-    children: []
   - title: Actions
     target: "/actualites/actions/"
+    kind: news_category
+    children: []
+  - title: Témoignage
+    target: "/actualites/actualite/interview/"
     kind: news_category
     children: []
   - title: Réseau
