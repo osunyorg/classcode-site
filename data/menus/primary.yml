@@ -3,7 +3,7 @@
   target: "/actualites/"
   kind: news
   children:
-  - title: Actalités
+  - title: Actualités
     target: "/actualites/"
     kind: news
     children: []
