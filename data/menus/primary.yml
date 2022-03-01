@@ -7,6 +7,10 @@
     target: "/actualites/actualite/interview/"
     kind: news_category
     children: []
+  - title: Actions
+    target: "/actualites/actions/"
+    kind: news_category
+    children: []
 - title: Thématiques
   target: "/thematiques/"
   kind: page
