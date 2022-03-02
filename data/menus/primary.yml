@@ -7,10 +7,6 @@
     target: "/actualites/"
     kind: news
     children: []
-  - title: Témoignage
-    target: "/actualites/actualite/interview/"
-    kind: news_category
-    children: []
   - title: Réseau
     target: "/actualites/actions/animation-de-reseau/"
     kind: news_category
