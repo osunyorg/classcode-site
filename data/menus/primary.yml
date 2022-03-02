@@ -2,15 +2,7 @@
 - title: Actualités
   target: "/actualites/"
   kind: news
-  children:
-  - title: Actualités
-    target: "/actualites/"
-    kind: news
-    children: []
-  - title: Réseau
-    target: "/actualites/actions/animation-de-reseau/"
-    kind: news_category
-    children: []
+  children: []
 - title: Thématiques
   target: "/thematiques/"
   kind: page
