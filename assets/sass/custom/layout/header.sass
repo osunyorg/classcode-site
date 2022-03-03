@@ -5,12 +5,15 @@ header[role=banner]
     right: 0
     top: 0
     z-index: 1
+
     .logo
         img
             height: 45px
             width: auto
-    button
-        color: white
+
+    nav[role=navigation]
+        button[type=button]
+            color: white
 
     .navbar
         @include media-breakpoint-up(lg)
