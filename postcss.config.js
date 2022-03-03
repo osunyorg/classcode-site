@@ -11,7 +11,7 @@ module.exports = {
                     'show',
                     'active',
                     'collapsed',
-                    'ratio',
+                    /^modal/,
                     /^ratio/,
                     /^dropdown/,
                     /^nav-level-/,
