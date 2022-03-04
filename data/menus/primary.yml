@@ -58,7 +58,11 @@
 - title: Association
   target: "/association-1/qui-sommes-nous/"
   kind: page
-  children: []
+  children:
+  - title: Qui sommes-nous ?
+    target: "/association-1/qui-sommes-nous/"
+    kind: page
+    children: []
 - title: Réseau
   target: "/"
   kind: blank
