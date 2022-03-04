@@ -40,19 +40,19 @@
     kind: page
     children: []
 - title: Services
-  target: "/actions/"
+  target: "/services/"
   kind: page
   children:
   - title: Création de ressources pédagogiques
-    target: "/actions/creation-ressources/"
+    target: "/services/creation-ressources/"
     kind: page
     children: []
   - title: Animation de formations
-    target: "/actions/animation-de-formations/"
+    target: "/services/animation-de-formations/"
     kind: page
     children: []
   - title: Soutien au structures membres
-    target: "/actions/animation-de-reseau-et-seminaire/"
+    target: "/services/animation-de-reseau-et-seminaire/"
     kind: page
     children: []
 - title: Association
