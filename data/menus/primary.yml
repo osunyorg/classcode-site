@@ -59,16 +59,16 @@
   target: "/association-1/qui-sommes-nous/"
   kind: page
   children:
-  - title: Notre approche
-    target: "/association-1/notre-approche/"
+  - title: Education au numérique
+    target: "/association-1/education-au-numerique/"
     kind: page
-    children:
-    - title: Education au numérique
-      target: "/association-1/education-au-numerique/"
-      kind: page
-      children: []
+    children: []
   - title: Qui sommes-nous ?
     target: "/association-1/qui-sommes-nous/"
+    kind: page
+    children: []
+  - title: Notre approche
+    target: "/association-1/notre-approche/"
     kind: page
     children: []
   - title: Adhérer
