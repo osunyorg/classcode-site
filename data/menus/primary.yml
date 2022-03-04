@@ -43,7 +43,7 @@
   target: "/actions/"
   kind: page
   children:
-  - title: Création de ressources libres
+  - title: Création de ressources pédagogiques
     target: "/actions/mooc-et-ressources-educatives-libres/"
     kind: page
     children: []
