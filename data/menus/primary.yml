@@ -44,7 +44,7 @@
   kind: page
   children:
   - title: Création de ressources pédagogiques
-    target: "/actions/mooc-et-ressources-educatives-libres/"
+    target: "/actions/ressources-1/"
     kind: page
     children: []
   - title: Animation de formations
