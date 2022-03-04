@@ -51,6 +51,10 @@
     target: "/actions/animation-de-formations/"
     kind: page
     children: []
+  - title: Soutien au structures membres
+    target: "/actions/animation-de-reseau-et-seminaire/"
+    kind: page
+    children: []
 - title: Association
   target: "/association-1/qui-sommes-nous/"
   kind: page
