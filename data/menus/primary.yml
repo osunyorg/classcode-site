@@ -11,6 +11,10 @@
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
+  - title: Les Intrépides de la Tech
+    target: "/thematiques/les-intrepides-de-la-tech/"
+    kind: page
+    children: []
   - title: L'Intelligence Artificielle... avec intelligence !
     target: "/thematiques/lintelligence-artificielle-avec-intelligence/"
     kind: page
@@ -37,10 +41,6 @@
     children: []
   - title: Gérer un projet informatique avec des enfants
     target: "/thematiques/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
-  - title: Les Intrépides de la Tech
-    target: "/thematiques/les-intrepides-de-la-tech/"
     kind: page
     children: []
 - title: Services
