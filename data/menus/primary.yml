@@ -39,7 +39,7 @@
     target: "/thematiques/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
-- title: Actions
+- title: Services
   target: "/actions/"
   kind: page
   children:
