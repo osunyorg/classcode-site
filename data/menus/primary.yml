@@ -48,7 +48,7 @@
     kind: page
     children: []
   - title: Animation de formations
-    target: "/services/animation-de-formations/"
+    target: "/services/animation-de-formation/"
     kind: page
     children: []
   - title: Soutien au structures membres
