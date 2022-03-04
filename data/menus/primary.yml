@@ -82,5 +82,9 @@
 - title: Réseau
   target: "/"
   kind: blank
-  children: []
+  children:
+  - title: Les Intrepides de la Tech
+    target: https://www.intrepidesdelatech.org/
+    kind: url
+    children: []
 
