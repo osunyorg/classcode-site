@@ -71,10 +71,6 @@
     target: "/association-1/qui-sommes-nous/"
     kind: page
     children: []
-  - title: Notre approche
-    target: "/association-1/notre-approche/"
-    kind: page
-    children: []
   - title: Adhérer
     target: "/association-1/adherer/"
     kind: page
