@@ -71,12 +71,12 @@
     target: "/association-1/qui-sommes-nous/"
     kind: page
     children: []
-  - title: Adhérer
-    target: "/association-1/adherer/"
-    kind: page
-    children: []
   - title: Partenaires
     target: "/association-1/partenaires/"
+    kind: page
+    children: []
+  - title: Adhérer
+    target: "/association-1/adherer/"
     kind: page
     children: []
 
