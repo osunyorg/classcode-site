@@ -71,6 +71,10 @@
         target: "/association-1/education-au-numerique/"
         kind: page
         children: []
+  - title: Adhérer
+    target: "/association-1/adherer/"
+    kind: page
+    children: []
 - title: Réseau
   target: "/"
   kind: blank
