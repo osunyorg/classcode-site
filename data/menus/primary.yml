@@ -44,7 +44,7 @@
   kind: page
   children:
   - title: Création de ressources pédagogiques
-    target: "/actions/ressources-1/"
+    target: "/actions/creation-ressources/"
     kind: page
     children: []
   - title: Animation de formations
