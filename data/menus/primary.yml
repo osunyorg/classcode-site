@@ -39,6 +39,10 @@
     target: "/thematiques/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
+  - title: Les Intrépides de la Tech
+    target: "/thematiques/les-intrepides-de-la-tech/"
+    kind: page
+    children: []
 - title: Services
   target: "/services/"
   kind: page
