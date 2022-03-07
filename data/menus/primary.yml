@@ -11,8 +11,16 @@
     target: "/thematiques/pensee-informatique/"
     kind: page
     children:
+    - title: Programmation créative
+      target: "/thematiques/pensee-informatique/programmation-creative/"
+      kind: page
+      children: []
     - title: Connecter le réseau
       target: "/thematiques/pensee-informatique/connecter-le-reseau/"
+      kind: page
+      children: []
+    - title: Manipuler l'information
+      target: "/thematiques/pensee-informatique/information/"
       kind: page
       children: []
     - title: S'initier à la robotique
@@ -33,14 +41,6 @@
     children: []
   - title: Sciences numériques et technologie
     target: "/thematiques/sciences-numeriques-et-technologie/"
-    kind: page
-    children: []
-  - title: Programmation créative
-    target: "/thematiques/pensee-informatique/programmation-creative/"
-    kind: page
-    children: []
-  - title: Manipuler l'information
-    target: "/thematiques/pensee-informatique/information/"
     kind: page
     children: []
   - title: Gérer un projet informatique avec des enfants
