@@ -36,7 +36,7 @@
     kind: page
     children: []
   - title: Manipuler l'information
-    target: "/thematiques/information/"
+    target: "/thematiques/pensee-informatique/information/"
     kind: page
     children: []
   - title: Gérer un projet informatique avec des enfants
