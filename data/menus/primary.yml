@@ -3,7 +3,7 @@
   target: "/actualites/"
   kind: news
   children: []
-- title: Thématiques
+- title: Nos Moocs
   target: "/mooc/"
   kind: page
   children:
