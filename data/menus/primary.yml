@@ -46,11 +46,11 @@
   - title: Métiers du numérique
     target: "/"
     kind: blank
-    children: []
-  - title: Les Intrépides de la Tech
-    target: "/thematiques/metiers-du-numerique/les-intrepides-de-la-tech/"
-    kind: page
-    children: []
+    children:
+    - title: Les Intrépides de la Tech
+      target: "/thematiques/metiers-du-numerique/les-intrepides-de-la-tech/"
+      kind: page
+      children: []
 - title: Services
   target: "/services/"
   kind: page
