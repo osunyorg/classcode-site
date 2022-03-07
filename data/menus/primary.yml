@@ -31,6 +31,10 @@
       target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
       kind: page
       children: []
+  - title: Culture numérique
+    target: "/"
+    kind: blank
+    children: []
   - title: Impacts environnementaux du numérique
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
@@ -51,10 +55,6 @@
       target: "/thematiques/metiers-du-numerique/les-intrepides-de-la-tech/"
       kind: page
       children: []
-  - title: Culture numérique
-    target: "/"
-    kind: blank
-    children: []
 - title: Services
   target: "/services/"
   kind: page
