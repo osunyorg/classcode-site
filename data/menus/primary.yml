@@ -11,10 +11,6 @@
     target: "/thematiques/pensee-informatique/"
     kind: page
     children:
-    - title: Manipuler l'information
-      target: "/thematiques/pensee-informatique/information/"
-      kind: page
-      children: []
     - title: S'initier à la robotique
       target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
       kind: page
