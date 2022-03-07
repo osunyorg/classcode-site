@@ -14,11 +14,7 @@
   - title: Culture numérique
     target: "/"
     kind: blank
-    children:
-    - title: Impacts environnementaux du numérique
-      target: "/thematiques/impacts-environnementaux-du-numerique/"
-      kind: page
-      children: []
+    children: []
   - title: Métiers du numérique
     target: "/"
     kind: blank
