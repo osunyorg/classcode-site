@@ -12,7 +12,7 @@
     kind: page
     children: []
   - title: Les Intrépides de la Tech
-    target: "/thematiques/les-intrepides-de-la-tech/"
+    target: "/thematiques/metiers-du-numerique/les-intrepides-de-la-tech/"
     kind: page
     children: []
   - title: L'Intelligence Artificielle... avec intelligence !
