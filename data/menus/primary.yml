@@ -27,6 +27,10 @@
       target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
       kind: page
       children: []
+    - title: Gérer un projet informatique avec des enfants
+      target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
+      kind: page
+      children: []
   - title: Impacts environnementaux du numérique
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
@@ -41,10 +45,6 @@
     children: []
   - title: Sciences numériques et technologie
     target: "/thematiques/sciences-numeriques-et-technologie/"
-    kind: page
-    children: []
-  - title: Gérer un projet informatique avec des enfants
-    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
 - title: Services
