@@ -10,7 +10,11 @@
   - title: Pensée informatique
     target: "/thematiques/pensee-informatique/"
     kind: page
-    children: []
+    children:
+    - title: S'initier à la robotique
+      target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
+      kind: page
+      children: []
   - title: Impacts environnementaux du numérique
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
@@ -29,10 +33,6 @@
     children: []
   - title: Programmation créative
     target: "/thematiques/pensee-informatique/programmation-creative/"
-    kind: page
-    children: []
-  - title: S'initier à la robotique
-    target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
     children: []
   - title: Connecter le réseau
