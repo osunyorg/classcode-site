@@ -7,12 +7,12 @@
   target: "/thematiques/"
   kind: page
   children:
-  - title: Gérer un projet informatique avec des enfants
-    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
   - title: Programmation créative
     target: "/thematiques/pensee-informatique/programmation-creative/"
+    kind: page
+    children: []
+  - title: Gérer un projet informatique avec des enfants
+    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
   - title: Pensée informatique
