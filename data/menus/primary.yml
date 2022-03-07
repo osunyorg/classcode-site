@@ -51,6 +51,10 @@
       target: "/thematiques/metiers-du-numerique/les-intrepides-de-la-tech/"
       kind: page
       children: []
+  - title: Culture numérique
+    target: "/"
+    kind: blank
+    children: []
 - title: Services
   target: "/services/"
   kind: page
