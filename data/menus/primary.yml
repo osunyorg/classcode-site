@@ -11,6 +11,10 @@
     target: "/thematiques/culture-numerique/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
+  - title: Sciences numériques et technologie
+    target: "/thematiques/culture-numerique/sciences-numeriques-et-technologie/"
+    kind: page
+    children: []
   - title: L'Intelligence Artificielle... avec intelligence !
     target: "/thematiques/culture-numerique/lintelligence-artificielle-avec-intelligence/"
     kind: page
@@ -29,10 +33,6 @@
     children: []
   - title: Manipuler l'information
     target: "/thematiques/pensee-informatique/information/"
-    kind: page
-    children: []
-  - title: Sciences numériques et technologie
-    target: "/thematiques/culture-numerique/sciences-numeriques-et-technologie/"
     kind: page
     children: []
   - title: Gérer un projet informatique avec des enfants
