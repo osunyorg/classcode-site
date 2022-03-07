@@ -75,4 +75,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: Formations
+  target: "/offre-de-formation/"
+  kind: programs
+  children: []
 
