@@ -24,7 +24,7 @@
     kind: page
     children: []
   - title: Programmation créative
-    target: "/thematiques/programmation-creative/"
+    target: "/thematiques/pensee-informatique/programmation-creative/"
     kind: page
     children: []
   - title: S'initier à la robotique
