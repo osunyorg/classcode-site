@@ -11,10 +11,6 @@
     target: "/thematiques/pensee-informatique/"
     kind: page
     children:
-    - title: Programmation créative
-      target: "/thematiques/pensee-informatique/programmation-creative/"
-      kind: page
-      children: []
     - title: Connecter le réseau
       target: "/thematiques/pensee-informatique/connecter-le-reseau/"
       kind: page
