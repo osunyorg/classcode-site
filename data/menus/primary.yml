@@ -71,4 +71,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+  - title: Partenaires
+    target: "/association-1/partenaires/"
+    kind: page
+    children: []
 
