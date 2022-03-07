@@ -12,8 +12,8 @@
     kind: page
     children: []
   - title: Culture numérique
-    target: "/"
-    kind: blank
+    target: "/thematiques/culture-numerique/"
+    kind: page
     children: []
   - title: Métiers du numérique
     target: "/thematiques/metiers-du-numerique/"
