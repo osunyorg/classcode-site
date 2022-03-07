@@ -32,7 +32,7 @@
     kind: page
     children: []
   - title: Connecter le réseau
-    target: "/thematiques/connecter-le-reseau/"
+    target: "/thematiques/pensee-informatique/connecter-le-reseau/"
     kind: page
     children: []
   - title: Manipuler l'information
