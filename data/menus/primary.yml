@@ -7,18 +7,18 @@
   target: "/thematiques/"
   kind: page
   children:
+  - title: Programmation créative
+    target: "/thematiques/pensee-informatique/programmation-creative/"
+    kind: page
+    children:
+    - title: Gérer un projet informatique avec des enfants
+      target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
+      kind: page
+      children: []
   - title: Pensée informatique
     target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
-    children:
-    - title: Programmation créative
-      target: "/thematiques/pensee-informatique/programmation-creative/"
-      kind: page
-      children:
-      - title: Gérer un projet informatique avec des enfants
-        target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
-        kind: page
-        children: []
+    children: []
   - title: Culture numérique
     target: "/thematiques/culture-numerique/"
     kind: page
