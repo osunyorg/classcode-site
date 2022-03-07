@@ -43,7 +43,7 @@
   target: "/services/"
   kind: page
   children:
-  - title: Création de ressources pédagogiques
+  - title: Création de ressources
     target: "/services/creation-ressources/"
     kind: page
     children: []
