@@ -1,6 +1,9 @@
 ---
 name: IAI.jpg
 size: 65248
+width: 416
+height: 208
+ratio: 2.0
 url: https://classcode.osuny.org/media/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxtTWpKaVpUazBZaTAwWmpoaExUUTRPVFl0T0RVMk1TMWxNV1ZoTlRObVpHRTNNMllHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImJsb2JfaWQifX0=--54fe8b3425b6e2a2a3950503e1a18922dae5b2fd/IAI.jpg
 direct_url: https://osuny.s3.fr-par.scw.cloud/5foqvgoryty8nai5309vlvtmad5z?response-content-disposition=inline%3B+filename%3D%22IAI.jpg%22%3B+filename*%3DUTF-8%27%27IAI.jpg&response-content-type=image%2Fjpeg
 
