@@ -51,4 +51,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: Connecter le réseau
+  target: "/thematiques/pensee-informatique/connecter-le-reseau/"
+  kind: page
+  children: []
 
