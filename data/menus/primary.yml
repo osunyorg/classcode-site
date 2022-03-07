@@ -67,4 +67,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: L'Intelligence Artificielle... avec intelligence !
+  target: "/thematiques/culture-numerique/lintelligence-artificielle-avec-intelligence/"
+  kind: page
+  children: []
 
