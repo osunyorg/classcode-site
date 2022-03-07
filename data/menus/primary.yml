@@ -28,7 +28,7 @@
     kind: page
     children: []
   - title: S'initier à la robotique
-    target: "/thematiques/sinitier-a-la-robotique/"
+    target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
     children: []
   - title: Connecter le réseau
