@@ -10,15 +10,7 @@
   - title: Pensée informatique
     target: "/thematiques/pensee-informatique/"
     kind: page
-    children:
-    - title: S'initier à la robotique
-      target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
-      kind: page
-      children: []
-    - title: Gérer un projet informatique avec des enfants
-      target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
-      kind: page
-      children: []
+    children: []
   - title: Culture numérique
     target: "/"
     kind: blank
