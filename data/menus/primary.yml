@@ -7,6 +7,10 @@
   target: "/thematiques/"
   kind: page
   children:
+  - title: Pensée informatique
+    target: "/thematiques/pensee-informatique/"
+    kind: page
+    children: []
   - title: Impacts environnementaux du numérique
     target: "/thematiques/impacts-environnementaux-du-numerique/"
     kind: page
@@ -75,8 +79,4 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
-- title: Pensée informatique
-  target: "/thematiques/pensee-informatique/"
-  kind: page
-  children: []
 
