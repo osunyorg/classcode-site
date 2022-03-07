@@ -16,8 +16,8 @@
     kind: blank
     children: []
   - title: Métiers du numérique
-    target: "/"
-    kind: blank
+    target: "/thematiques/metiers-du-numerique/"
+    kind: page
     children: []
 - title: Services
   target: "/services/"
