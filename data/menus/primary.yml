@@ -47,6 +47,10 @@
     target: "/thematiques/sciences-numeriques-et-technologie/"
     kind: page
     children: []
+  - title: Métiers du numérique
+    target: "/"
+    kind: blank
+    children: []
 - title: Services
   target: "/services/"
   kind: page
