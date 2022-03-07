@@ -59,4 +59,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: Impacts environnementaux du numérique
+  target: "/thematiques/culture-numerique/impacts-environnementaux-du-numerique/"
+  kind: page
+  children: []
 
