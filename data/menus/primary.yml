@@ -67,4 +67,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: Projets partenaires
+  target: "/services/projets-partenaires/"
+  kind: page
+  children: []
 
