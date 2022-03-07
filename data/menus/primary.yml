@@ -15,10 +15,6 @@
     target: "/thematiques/culture-numerique/lintelligence-artificielle-avec-intelligence/"
     kind: page
     children: []
-  - title: Gérer un projet informatique avec des enfants
-    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
   - title: Programmation créative
     target: "/thematiques/pensee-informatique/programmation-creative/"
     kind: page
@@ -37,6 +33,10 @@
     children: []
   - title: Sciences numériques et technologie
     target: "/thematiques/culture-numerique/sciences-numeriques-et-technologie/"
+    kind: page
+    children: []
+  - title: Gérer un projet informatique avec des enfants
+    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
 - title: Services
