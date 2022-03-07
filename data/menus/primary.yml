@@ -59,7 +59,7 @@
   target: "/association-1/qui-sommes-nous/"
   kind: page
   children:
-  - title: Education au numérique
+  - title: Nos valeurs
     target: "/association-1/education-au-numerique/"
     kind: page
     children: []
