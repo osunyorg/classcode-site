@@ -4,39 +4,39 @@
   kind: news
   children: []
 - title: Thématiques
-  target: "/thematiques/"
+  target: "/mooc/"
   kind: page
   children:
   - title: Impacts environnementaux du numérique
-    target: "/thematiques/culture-numerique/impacts-environnementaux-du-numerique/"
+    target: "/mooc/culture-numerique/impacts-environnementaux-du-numerique/"
     kind: page
     children: []
   - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/thematiques/culture-numerique/lintelligence-artificielle-avec-intelligence/"
+    target: "/mooc/culture-numerique/lintelligence-artificielle-avec-intelligence/"
     kind: page
     children: []
   - title: Sciences numériques et technologie
-    target: "/thematiques/culture-numerique/sciences-numeriques-et-technologie/"
+    target: "/mooc/culture-numerique/sciences-numeriques-et-technologie/"
     kind: page
     children: []
   - title: Programmation créative
-    target: "/thematiques/pensee-informatique/programmation-creative/"
+    target: "/mooc/pensee-informatique/programmation-creative/"
     kind: page
     children: []
   - title: S'initier à la robotique
-    target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
+    target: "/mooc/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
     children: []
   - title: Connecter le réseau
-    target: "/thematiques/pensee-informatique/connecter-le-reseau/"
+    target: "/mooc/pensee-informatique/connecter-le-reseau/"
     kind: page
     children: []
   - title: Manipuler l'information
-    target: "/thematiques/pensee-informatique/information/"
+    target: "/mooc/pensee-informatique/information/"
     kind: page
     children: []
   - title: Gérer un projet informatique avec des enfants
-    target: "/thematiques/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
+    target: "/mooc/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
     kind: page
     children: []
 - title: Nos actions
