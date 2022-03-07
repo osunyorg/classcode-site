@@ -8,7 +8,7 @@
   kind: page
   children:
   - title: Pensée informatique
-    target: "/thematiques/pensee-informatique/"
+    target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
     children: []
   - title: Culture numérique
