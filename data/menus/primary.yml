@@ -11,10 +11,6 @@
     target: "/thematiques/pensee-informatique/"
     kind: page
     children:
-    - title: Connecter le réseau
-      target: "/thematiques/pensee-informatique/connecter-le-reseau/"
-      kind: page
-      children: []
     - title: Manipuler l'information
       target: "/thematiques/pensee-informatique/information/"
       kind: page
