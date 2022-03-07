@@ -34,11 +34,11 @@
   - title: Culture numérique
     target: "/"
     kind: blank
-    children: []
-  - title: Impacts environnementaux du numérique
-    target: "/thematiques/impacts-environnementaux-du-numerique/"
-    kind: page
-    children: []
+    children:
+    - title: Impacts environnementaux du numérique
+      target: "/thematiques/impacts-environnementaux-du-numerique/"
+      kind: page
+      children: []
   - title: L'Intelligence Artificielle... avec intelligence !
     target: "/thematiques/lintelligence-artificielle-avec-intelligence/"
     kind: page
