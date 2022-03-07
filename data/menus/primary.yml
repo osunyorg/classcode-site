@@ -47,4 +47,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: Manipuler l'information
+  target: "/thematiques/pensee-informatique/information/"
+  kind: page
+  children: []
 
