@@ -55,4 +55,8 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
+- title: S'initier à la robotique
+  target: "/thematiques/pensee-informatique/sinitier-a-la-robotique/"
+  kind: page
+  children: []
 
