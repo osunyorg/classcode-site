@@ -35,14 +35,14 @@
     target: "/"
     kind: blank
     children:
+    - title: L'Intelligence Artificielle... avec intelligence !
+      target: "/thematiques/lintelligence-artificielle-avec-intelligence/"
+      kind: page
+      children: []
     - title: Impacts environnementaux du numérique
       target: "/thematiques/impacts-environnementaux-du-numerique/"
       kind: page
       children: []
-  - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/thematiques/lintelligence-artificielle-avec-intelligence/"
-    kind: page
-    children: []
   - title: Sciences numériques et technologie
     target: "/thematiques/sciences-numeriques-et-technologie/"
     kind: page
