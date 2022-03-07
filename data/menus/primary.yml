@@ -51,6 +51,10 @@
     target: "/services/animation-de-formation/"
     kind: page
     children: []
+- title: Projets partenaires
+  target: "/services/projets-partenaires/"
+  kind: page
+  children: []
 - title: Association
   target: "/association-1/qui-sommes-nous/"
   kind: page
@@ -67,8 +71,4 @@
     target: "/association-1/adherer/"
     kind: page
     children: []
-- title: Projets partenaires
-  target: "/services/projets-partenaires/"
-  kind: page
-  children: []
 
