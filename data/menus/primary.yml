@@ -60,23 +60,23 @@
     kind: page
     children: []
 - title: L'association
-  target: "/association-1/qui-sommes-nous/"
+  target: "/association/qui-sommes-nous/"
   kind: page
   children:
   - title: Qui sommes-nous ?
-    target: "/association-1/qui-sommes-nous/"
+    target: "/association/qui-sommes-nous/"
     kind: page
     children: []
   - title: Nos valeurs
-    target: "/association-1/education-au-numerique/"
+    target: "/association/education-au-numerique/"
     kind: page
     children: []
   - title: Adhérer
-    target: "/association-1/adherer/"
+    target: "/association/adherer/"
     kind: page
     children: []
   - title: Partenaires
-    target: "/association-1/partenaires/"
+    target: "/association/partenaires/"
     kind: page
     children: []
 - title: Formations
