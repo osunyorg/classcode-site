@@ -48,15 +48,15 @@
   kind: page
   children:
   - title: Création de ressources
-    target: "/servicescreation-ressources/"
+    target: "/services/creation-ressources/"
     kind: page
     children: []
   - title: Animation de formations
-    target: "/servicesanimation-de-formation/"
+    target: "/services/animation-de-formation/"
     kind: page
     children: []
   - title: Projets partenaires
-    target: "/servicesprojets-partenaires/"
+    target: "/services/projets-partenaires/"
     kind: page
     children: []
 - title: L'association
