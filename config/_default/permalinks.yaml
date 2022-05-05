@@ -4,3 +4,4 @@ persons:        /equipe/:slug/
 authors:        /equipe/:slug/actualites/
 administrators: /equipe/:slug/roles/
 teachers:       /equipe/:slug/programs/
+researchers:    /equipe/:slug/articles/
