@@ -1,6 +1,10 @@
-// eslint-disable-next-line no-undef
-module.exports = {
-    plugins: {
+/* eslint-disable no-undef */
+var devPlugins = {},
+    productionPlugins = {
+        autoprefixer: {},
+        cssnano: {
+            preset: 'default'
+        },
         '@fullhuman/postcss-purgecss': {
             content: [
                 './themes/**/*.html',
@@ -11,30 +15,59 @@ module.exports = {
                     'show',
                     'active',
                     'collapsed',
-                    /^modal/,
-                    /^ratio/,
+                    'h1',
+                    'h2',
+                    'h3',
+                    'h4',
+                    'h5',
+                    'h6',
                     /^dropdown/,
                     /^nav-level-/,
+                    /^splide_/,
                     /^is-/,
                     /^has-/,
-                    /^js-/
+                    /^js-/,
+
+                    // Glightbox
+                    'wait-autoplay',
+                    'gfadeIn',
+                    'gfadeOut',
+                    'gslideOutLeft',
+                    'gslideInLeft',
+                    'gslideOutRight',
+                    'gslideInRight',
+                    'gzoomIn',
+                    'gzoomOut'
+                ],
+                deep: [
+                    // Glightbox
+                    /^glightbox/,
+                    /^gslide/,
+                    /^desc-top/,
+                    /^desc-left/,
+                    /^ginlined/,
+                    /^zoomed/,
+                    /^gdesc-/,
+                    /^gabsolute/,
+                    /^grelative/,
+                    /^gloader/,
+                    /^goverlay/,
+                    /^gprev/,
+                    /^gnext/,
+                    /^gclose/,
+                    /^gbtn/,
+                    /^gcontainer/
                 ],
                 greedy: [
-                    /administrators__/,
-                    /authors__/,
-                    /categories__/,
-                    /page__/,
-                    /pages__/,
-                    /persons__/,
-                    /posts__/,
-                    /programs__/,
-                    /teachers__/
+                    /__home/,
+                    /__page/,
+                    /__section/,
+                    /__term/
                 ]
             }
-        },
-        autoprefixer: {},
-        cssnano: {
-            preset: 'default'
         }
-    }
+    };
+
+module.exports = {
+    plugins: process.env.HUGO_ENVIRONMENT === 'production' ? productionPlugins : devPlugins
 };

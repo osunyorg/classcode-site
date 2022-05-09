@@ -1,12 +1,12 @@
 <div class="page">
   <div>
     <p class="title">
-      <a href="{{ .Permalink }}" class="link">
-        {{ safeHTML (partial "CorrectPunctuation" .Title) }}
+      <a href="{{ .Permalink }}">
+        {{ partial "PrepareHTML" .Title }}
       </a>
     </p>
-    {{ if .Params.description }}
-      <p>{{ truncate 120 (safeHTML .Params.description) }}</p>
+    {{ if .Params.description_short }}
+      <p>{{ partial "GetTruncateContent" .Params.description_short }}</p>
     {{ end }}
   </div>
   <div class="media">
@@ -20,7 +20,7 @@
               "desktop"  "634x317"
             ) -}}
     {{- else -}}
-      {{- partial "commons/image-default.html" (dict "class" "img-fluid") -}}
+      {{- partial "commons/image-default.html" -}}
     {{- end -}}
   </div>
 </div>
