@@ -83,4 +83,8 @@
   target: "/offre-de-formation/"
   kind: programs
   children: []
+- title: Association
+  target: "/association/"
+  kind: page
+  children: []
 
