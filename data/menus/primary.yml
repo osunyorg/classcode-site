@@ -63,7 +63,7 @@
   target: "/association/qui-sommes-nous/"
   kind: page
   children:
-  - title: Association
+  - title: Présentation
     target: "/association/"
     kind: page
     children: []
