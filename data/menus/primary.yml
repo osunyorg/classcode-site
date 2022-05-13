@@ -63,6 +63,10 @@
   target: "/association/qui-sommes-nous/"
   kind: page
   children:
+  - title: Association
+    target: "/association/"
+    kind: page
+    children: []
   - title: Qui sommes-nous ?
     target: "/association/qui-sommes-nous/"
     kind: page
@@ -82,9 +86,5 @@
 - title: Formations
   target: "/offre-de-formation/"
   kind: programs
-  children: []
-- title: Association
-  target: "/association/"
-  kind: page
   children: []
 
