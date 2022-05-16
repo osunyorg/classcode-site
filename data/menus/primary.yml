@@ -83,8 +83,4 @@
     target: "/association/partenaires/"
     kind: page
     children: []
-- title: Formations
-  target: "/offre-de-formation/"
-  kind: programs
-  children: []
 
