@@ -39,10 +39,6 @@
     target: "/mooc/pensee-informatique/information/"
     kind: page
     children: []
-  - title: Gérer un projet informatique avec des enfants
-    target: "/mooc/pensee-informatique/gerer-un-projet-informatique-avec-des-enfants/"
-    kind: page
-    children: []
 - title: Nos actions
   target: "/services/"
   kind: page
