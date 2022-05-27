@@ -7,10 +7,6 @@
   target: "/mooc/"
   kind: page
   children:
-  - title: L'Intelligence Artificielle... avec intelligence !
-    target: "/mooc/culture-numerique/lintelligence-artificielle-avec-intelligence/"
-    kind: page
-    children: []
   - title: Sciences numériques et technologie
     target: "/mooc/culture-numerique/sciences-numeriques-et-technologie/"
     kind: page
