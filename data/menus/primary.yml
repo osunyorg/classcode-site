@@ -7,10 +7,6 @@
   target: "/mooc/"
   kind: page
   children:
-  - title: Programmation créative
-    target: "/mooc/pensee-informatique/programmation-creative/"
-    kind: page
-    children: []
   - title: S'initier à la robotique
     target: "/mooc/pensee-informatique/sinitier-a-la-robotique/"
     kind: page
