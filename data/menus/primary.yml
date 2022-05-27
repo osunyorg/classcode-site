@@ -6,11 +6,7 @@
 - title: Nos Moocs
   target: "/mooc/"
   kind: page
-  children:
-  - title: S'initier à la robotique
-    target: "/mooc/pensee-informatique/sinitier-a-la-robotique/"
-    kind: page
-    children: []
+  children: []
 - title: Nos actions
   target: "/services/"
   kind: page
