@@ -7,10 +7,6 @@
   target: "/mooc/"
   kind: page
   children:
-  - title: Sciences numériques et technologie
-    target: "/mooc/culture-numerique/sciences-numeriques-et-technologie/"
-    kind: page
-    children: []
   - title: Programmation créative
     target: "/mooc/pensee-informatique/programmation-creative/"
     kind: page
