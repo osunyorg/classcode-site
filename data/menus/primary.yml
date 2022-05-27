@@ -7,10 +7,6 @@
   target: "/mooc/"
   kind: page
   children:
-  - title: Impacts environnementaux du numérique
-    target: "/mooc/culture-numerique/impacts-environnementaux-du-numerique/"
-    kind: page
-    children: []
   - title: Numérique et sciences informatiques
     target: "/mooc/numerique-et-sciences-informatiques/"
     kind: page
