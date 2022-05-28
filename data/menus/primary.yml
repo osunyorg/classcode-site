@@ -1,8 +1,4 @@
 ---
-- title: Actualités
-  target: "/actualites/"
-  kind: news
-  children: []
 - title: Nos Moocs
   target: "/moocs/"
   kind: page
@@ -47,4 +43,8 @@
     target: "/association/partenaires/"
     kind: page
     children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: news
+  children: []
 
