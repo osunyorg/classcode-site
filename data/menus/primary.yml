@@ -4,7 +4,7 @@
   kind: news
   children: []
 - title: Nos Moocs
-  target: "/mooc/"
+  target: "/moocs/"
   kind: page
   children: []
 - title: Nos actions
