@@ -39,7 +39,7 @@
     target: "/association/adherer/"
     kind: page
     children: []
-  - title: Partenaires
+  - title: Nos partenaires
     target: "/association/partenaires/"
     kind: page
     children: []
