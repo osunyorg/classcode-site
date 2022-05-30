@@ -1,0 +1,23 @@
+{{ $mobile := "351x176" }}
+{{ $tablet := "336x168" }}
+{{ $desktop := "416x208" }}
+{{- if eq .Params.bodyclass "mooc" -}}
+  {{ $mobile = "164x164" }}
+  {{ $tablet = "156x156" }}
+  {{ $desktop = "196x196" }}
+{{- end -}}
+
+<div class="media">
+  {{- if .Params.image -}}
+    {{- partial "commons/image.html"
+          (dict
+            "image"    .Params.image
+            "mobile"   $mobile
+            "tablet"   $tablet
+            "desktop"  $desktop
+            "crop"     true
+          ) -}}
+  {{- else -}}
+    {{- partial "commons/image-default.html" -}}
+  {{- end -}}
+</div>
