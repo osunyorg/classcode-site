@@ -41,6 +41,7 @@ var devPlugins = {},
                 ],
                 deep: [
                     /block-/,
+                    /page-/,
                     // Glightbox
                     /^glightbox/,
                     /^gslide/,
