@@ -1,7 +1,7 @@
 posts:          /actualites/:year/:month/:day/:slug/
 categories:     /actualites/:slug/
 persons:        /equipe/:slug/
-organizations:  /partenaires-1/:slug/
+organizations:  /partenaires/:slug/
 authors:        /equipe/:slug/actualites/
 administrators: /equipe/:slug/roles/
 teachers:       /equipe/:slug/programs/
