@@ -3,4 +3,8 @@
   target: "/mentions-legales/"
   kind: page
   children: []
+- title: Nous contacter
+  target: contact@class-code.fr/
+  kind: url
+  children: []
 
