@@ -18,3 +18,22 @@
     font-style: normal
     font-weight: 700
     src: url("/assets/fonts/DMSans/DMSans-Bold.woff2") format('woff2')
+
+h1
+    font-family: $font-family-sans-serif
+    font-weight: 400
+    @include media-breakpoint-up(lg)
+        font-size: px2rem(60)
+
+.blockquote
+    border-left: 5px solid $light
+    padding-left: $grid-gutter-width
+
+.surtitle
+    font-family: $headings-font-family
+    font-size: 1rem
+    font-weight: 600
+    line-height: 130%
+    text-transform: uppercase
+    @include media-breakpoint-up(lg)
+        font-size: px2rem(24)
