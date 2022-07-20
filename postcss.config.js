@@ -32,7 +32,6 @@ module.exports = {
                     /^is-/,
                     /^has-/,
                     /^js-/,
-                    /^-mooc/,
 
                     // Glightbox
                     'wait-autoplay',
@@ -72,6 +71,7 @@ module.exports = {
                     /__section/,
                     /__term/,
                     /__taxonomy/,
+                    /mooc/,
                     /posts/,
                     /block-timeline/,
                     /call_to_action/,
