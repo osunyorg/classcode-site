@@ -32,6 +32,7 @@ module.exports = {
                     /^is-/,
                     /^has-/,
                     /^js-/,
+                    /^-mooc/,
 
                     // Glightbox
                     'wait-autoplay',
