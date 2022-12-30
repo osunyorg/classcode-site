@@ -1,1 +1,10 @@
 theme: osuny-hugo-theme-aaa
+
+params:
+  posts:
+    list:
+      show_categories: false
+      truncate_description: 200
+  pages:
+    list:
+      truncate_description: 200
