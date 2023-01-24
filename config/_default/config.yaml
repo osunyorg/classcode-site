@@ -10,3 +10,5 @@ params:
   pages:
     list:
       truncate_description: 200
+  logo:
+    footer: "/assets/images/logo-footer.svg"
