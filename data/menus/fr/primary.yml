@@ -1,4 +1,6 @@
 ---
+title: Primary
+items:
 - title: Nos Moocs
   target: "/moocs/"
   kind: page
