@@ -5,3 +5,13 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    programs: /offre-de-formation/:slug/
+    organizations: /partenaires/:slug/
+    persons: /equipe/:slug/
+    administrators: /equipe/:slug/roles/
+    authors: /equipe/:slug/actualites/
+    researchers: /equipe/:slug/papers/
+    teachers: /equipe/:slug/programs/
