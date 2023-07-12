@@ -13,5 +13,5 @@ fr:
     persons: /equipe/:slug/
     administrators: /equipe/:slug/roles/
     authors: /equipe/:slug/actualites/
-    researchers: /equipe/:slug/papers/
+    researchers: /equipe/:slug/publications/
     teachers: /equipe/:slug/programs/
