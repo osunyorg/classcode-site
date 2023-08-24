@@ -1,4 +1,4 @@
-name: infomaniak
+name: ovh
 
 on:
   push:
