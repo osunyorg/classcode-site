@@ -9,12 +9,11 @@
                 img
                     aspect-ratio: 1
 
-.block-partners,
+.block-organizations,
 .organization
     .media
         img
             mix-blend-mode: darken
-            padding: 2rem
 
 .organization-meta
     .logo
@@ -22,3 +21,10 @@
             mix-blend-mode: darken
 .lead
     color: $color-accent
+
+.pagefind-ui__toggle
+    @include media-breakpoint-up(desktop)
+        padding-left: 0
+        margin-right: -30px
+        &.toggle-icon::after
+            font-size: 3rem

@@ -4,6 +4,8 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   plausible: class-code.fr
+  search:
+    active: true
   posts:
     list:
       show_categories: false
