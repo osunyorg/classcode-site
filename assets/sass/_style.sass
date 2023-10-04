@@ -29,7 +29,8 @@
         &.toggle-icon::after
             font-size: 3rem
 
-*:focus-visible
-    outline: none
-    background: $color-background-alt
-    color: $color-text !important
+form input[type="text"],
+form input[type="search"]
+    &.pagefind-ui__search-input:focus-visible
+        outline: none
+        border-bottom: 2px solid $color-text
