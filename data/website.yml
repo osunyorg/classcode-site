@@ -18,3 +18,7 @@ external_domains:
   - "dai.ly"
   - "*.dmcdn.net"
 social:
+  x: >-
+    https://twitter.com/classcode_fr
+  linkedin: >-
+    https://www.linkedin.com/company/association-class-code/
