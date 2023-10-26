@@ -1,12 +1,4 @@
 ---
 title: Social
-items:
-- title: Twitter
-  target: https://twitter.com/classcode_fr
-  kind: url
-  children: []
-- title: LinkedIn
-  target: https://www.linkedin.com/company/54106790/admin/
-  kind: url
-  children: []
+items: []
 
