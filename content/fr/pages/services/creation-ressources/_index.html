@@ -49,13 +49,14 @@ contents:
     title: >-
       Des ressources collaboratives et mutualistes
     position: 0
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 1
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -78,13 +79,14 @@ contents:
     title: >-
       Un travail qui porte ses fruits
     position: 1
-    level: 2
+    rank: 2
   - kind: block
     template: key_figures
     title: >-
       
     position: 2
-    heading_level: 3
+    ranks:
+      self: false
     data:
       description: >-
         
@@ -104,13 +106,14 @@ contents:
     title: >-
       Des ressources éducatives libres de référence
     position: 2
-    level: 2
+    rank: 2
   - kind: block
     template: chapter
     title: >-
       
     position: 3
-    heading_level: 3
+    ranks:
+      self: false
     data:
       layout: no_background
       text: >-
@@ -133,7 +136,8 @@ contents:
     title: >-
       Notre expertise : une pédagogie créative
     position: 5
-    heading_level: 3
+    ranks:
+      self: 3
     data:
       text: >-
         <p>Vous aimeriez produire une ressource en lien avec la Culture numérique et la pensée informatique ? </p><br>Avec nos contenus clé en main, formez-vous et formez à votre tour en vous appuyant sur des connaissances scientifiques et des activités et ressources directement mobilisables dans un cadre pédagogique. Contactez-nous pour nous parler de vos besoins. Selon le format souhaité, les thématiques à aborder, les publics à former, nous vous proposons notre expertise ! <p><b></b></p>
@@ -164,7 +168,9 @@ contents:
     title: >-
       Exemples de ressources
     position: 6
-    heading_level: 3
+    ranks:
+      self: 3
+      children: 4
     data:
       layout: grid
       posts:
