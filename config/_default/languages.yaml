@@ -5,6 +5,12 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      x: >-
+        https://twitter.com/classcode_fr
+      linkedin: >-
+        https://www.linkedin.com/company/association-class-code/
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
