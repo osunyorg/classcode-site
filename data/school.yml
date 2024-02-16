@@ -1,15 +1,10 @@
 ---
-name: >
-  Association Class'Code
-address: >
+name: "Association Class'Code"
+address: >-
   43 Bd du Onze Novembre
-zipcode: >
-  69100
-city: >
-  Villeurbanne
-country: >
-  France
-phone: >
-  
+zipcode: "69100"
+city: "Villeurbanne"
+country: "France"
+phone: ""
 roles: []
 ---
