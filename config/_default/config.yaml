@@ -15,3 +15,5 @@ params:
       truncate_description: 200
   logo:
     footer: "/assets/images/logo-footer.svg"
+  debug:
+     productionUrl: "https://www.class-code.fr"
