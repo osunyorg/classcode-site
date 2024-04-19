@@ -17,7 +17,9 @@ fr:
     posts_categories: /actualites/:slug/
     programs: /offre-de-formation/:slug/
     organizations: /partenaires/:slug/
+    organizations_categories: /partenaires/:slug/
     persons: /equipe/:slug/
+    persons_categories: /equipe/:slug/
     administrators: /equipe/:slug/roles/
     authors: /equipe/:slug/actualites/
     researchers: /equipe/:slug/publications/
@@ -28,6 +30,8 @@ fr:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
