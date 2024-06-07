@@ -17,9 +17,9 @@ fr:
     posts_categories: /actualites/:slug/
     programs: /offre-de-formation/:slug/
     organizations: /partenaires/:slug/
-    organizations_categories: /partenaires/:slug/
+    organizations_categories: /partenaires/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     administrators: /equipe/:slug/roles/
     authors: /equipe/:slug/actualites/
     researchers: /equipe/:slug/publications/
