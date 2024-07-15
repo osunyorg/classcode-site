@@ -7,13 +7,10 @@ params:
   search:
     active: true
   posts:
-    list:
-      show_categories: false
-      truncate_description: 200
-  pages:
-    list:
-      truncate_description: 200
+    index:
+      options: 
+        categories: false
   logo:
     footer: "/assets/images/logo-footer.svg"
   debug:
-     productionUrl: "https://www.class-code.fr"
+    productionUrl: "https://www.class-code.fr"
