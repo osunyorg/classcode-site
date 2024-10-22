@@ -57,19 +57,27 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 44
+  seconds: 45
   text: >-
     1 minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Accompagnement sur-mesure
-    slug: "accompagnement-sur-mesure"
-    position: 1
-    rank: 2
+    slug: >-
+      accompagnement-sur-mesure
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -97,6 +105,8 @@ contents:
     template: pages
     title: >-
       Notre offre de services
+    slug: >-
+      notre-offre-de-services
     ranks:
       self: 3
       children: 4
@@ -120,7 +130,6 @@ contents:
           slug: "projets-partenaires"
           file: "pages/services/projets-partenaires/_index.html"
           external: false
-
 
 
 
