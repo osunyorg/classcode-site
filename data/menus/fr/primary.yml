@@ -5,6 +5,7 @@ items:
   target: "/moocs/"
   kind: page
   children: []
+  file: content/fr/pages/moocs/_index.html
 - title: Nos actions
   target: "/services/"
   kind: page
@@ -13,14 +14,18 @@ items:
     target: "/services/creation-ressources/"
     kind: page
     children: []
+    file: content/fr/pages/services/creation-ressources/_index.html
   - title: Animation de formations
     target: "/services/animation-de-formation/"
     kind: page
     children: []
+    file: content/fr/pages/services/animation-de-formation/_index.html
   - title: Projets partenaires
     target: "/services/projets-partenaires/"
     kind: page
     children: []
+    file: content/fr/pages/services/projets-partenaires/_index.html
+  file: content/fr/pages/services/_index.html
 - title: L'association
   target: "/association/qui-sommes-nous/"
   kind: page
@@ -29,24 +34,31 @@ items:
     target: "/association/"
     kind: page
     children: []
+    file: content/fr/pages/association/_index.html
   - title: Qui sommes-nous ?
     target: "/association/qui-sommes-nous/"
     kind: page
     children: []
+    file: content/fr/pages/association/qui-sommes-nous/_index.html
   - title: Nos valeurs
     target: "/association/education-au-numerique/"
     kind: page
     children: []
+    file: content/fr/pages/association/education-au-numerique/_index.html
   - title: Adhérer
     target: "/association/adherer/"
     kind: page
     children: []
+    file: content/fr/pages/association/adherer/_index.html
   - title: Nos partenaires
     target: "/association/nos-partenaires/"
     kind: page
     children: []
+    file: content/fr/pages/association/nos-partenaires/_index.html
+  file: content/fr/pages/association/qui-sommes-nous/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
