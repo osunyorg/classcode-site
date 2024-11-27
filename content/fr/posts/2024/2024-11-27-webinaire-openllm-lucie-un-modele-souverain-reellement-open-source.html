@@ -6,7 +6,7 @@ subtitle: >-
 url: "/actualites/2024-11-27-webinaire-openllm-lucie-un-modele-souverain-reellement-open-source/"
 slug: "webinaire-openllm-lucie-un-modele-souverain-reellement-open-source"
 date: 2024-11-27T20:38:22+01:00
-lastmod: 2024-11-27T20:41:34+01:00
+lastmod: 2024-11-27T20:42:49+01:00
 meta:
   hugo:
     permalink: "/actualites/2024-11-27-webinaire-openllm-lucie-un-modele-souverain-reellement-open-source/"
@@ -15,7 +15,7 @@ meta:
     slug: "webinaire-openllm-lucie-un-modele-souverain-reellement-open-source"
   dates:
     created_at: 2024-11-27T20:32:16+01:00
-    updated_at: 2024-11-27T20:41:34+01:00
+    updated_at: 2024-11-27T20:42:49+01:00
     published_at: 2024-11-27T20:38:22+01:00
 
 breadcrumbs:
@@ -64,9 +64,9 @@ summary: >-
   
 
 contents_reading_time:
-  seconds: 353
+  seconds: 503
   text: >-
-    6 minutes
+    8 minutes
 contents:
   - kind: block
     template: chapter
@@ -171,15 +171,15 @@ contents:
   - kind: block
     template: chapter
     title: >-
-      
+      L’entrainement de LUCIE
     slug: >-
-      
+      l-entrainement-de-lucie
     ranks:
       self: 2
     data:
       layout: no_background
       text: >-
-        
+        <p>L’entraînement de ce modèle a commencé en août sur les infrastructures du CNRS : le supercalculateur Jean Zay, du GENCI, avec l’ambition de traiter 3 000 milliards de tokens pour lui fournir une vaste base de connaissances. Ce qui nécessité l'utilisation de 512 GPU H100 en parallèle et la collecte d'un jeu de donnée massif  " Sans trop divulguez les chiffre, on est sur 3000 milliards de tokens, on est sur de très grandes volumétries que l'on va mettre à disposition dans le cadre de cette démarche"  Michel-Marie MAUDET     1. Composition des données : Pour obtenir un modèle performant, Lucie est entraînée sur un mélange de langues et de types de données : anglais (33 % ), français (32,4 %), du code informatique et des mathématiques (15 %) car ils améliorent les capacités de raisonnement du modèle. Les autres langues comme l’allemand, l’espagnol et l’italien complètent les 20 % restants. Ainsi, chaque type de données est pondéré différemment pour prioriser la qualité (ex. : les données de Wikipédia sont vues plusieurs fois) et diversifier les compétences linguistiques du modèle.  2. Filtrage des données : Afin d’assurer une qualité optimale, un filtrage strict est appliqué. Les données sont sélectionnées selon des critères de qualité pour éviter les informations redondantes, erronées ou offensantes. Par exemple, les URL de sites jugés offensants ou non pertinents sont exclus, et les contenus avec des mots bannis sont filtrés. Un processus de "near deduplication" est également employé pour éliminer les répétitions et garantir l’unicité des données.  3. Ordonnancement des données et parallélisme d’entraînement : L’entraînement de Lucie se déroule en utilisant des GPU en parallèle et en appliquant une technique de parallélisme "3D" pour optimiser le processus. Les données plus anciennes sont traitées en début d’entraînement, ce qui permet de recentrer le modèle sur des informations actualisées en fin de parcours. Ce choix aide Lucie à maintenir des connaissances récentes.  Olivier GOUVERT, ingénieur de recherche chez LINAGORA, explique :   "Nous avons moins de mal à accepter qu’il oublie des choses sur des données qui sont vieilles"     4. Extension de la fenêtre de contexte : Lucie est en phase d'expansion de sa fenêtre contextuelle, de 4 096 à 128 000 tokens, permettant de mieux traiter les longs textes sans coupures. Cette capacité est cruciale pour des applications nécessitant une grande contextualisation, comme les systèmes de RAG. Par exemple, dans une application de questions-réponses pour une entreprise, cela permettrait au modèle de consulter un document d’entreprise entier, enrichissant ainsi la pertinence de ses réponses.  5. Evaluation et comparaison des performances : Lucie est comparée à d’autres modèles comme Pythia, Croissant LLM et Falcon, sur des benchmarks français et anglais. Sa performance progresse de manière logarithmique, et les résultats montrent des prévisions prometteuses. À gauche du graphique, les benchmarks anglais montrent les étapes de progrès de Lucie par rapport à des modèles majoritairement anglophones, tandis que les benchmarks français soulignent sa compétence accrue dans cette langue.  Olivier GOUVERT souligne :   " On voit que notre tokenizer est adapté pour ces 5 langues qu'on a choisi pour représenter un peu la diversité des langues européennes, ainsi que pour le code. "</p>
 
       notes: >-
         
