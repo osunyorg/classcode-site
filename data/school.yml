@@ -10,6 +10,8 @@ url: ""
 contact_details:
   postal_address:
     data:
+      address_name: >-
+        
       address: >-
         43 Bd du Onze Novembre
       address_additional: >-
@@ -18,18 +20,20 @@ contact_details:
         69100
       city: >-
         Villeurbanne
-      country: >-
+      country:
         name: >-
           France
         alpha2: >-
           FR
         alpha3: >-
           FRA
-      country: >-
-        France
+    geolocation:
+      latitude: 
+      longitude: 
     text: >-
       43 Bd du Onze Novembre 69100 Villeurbanne FRANCE
     html: >-
       <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">43 Bd du Onze Novembre</span> <span itemprop="postalCode">69100</span> <span itemprop="addressLocality">Villeurbanne</span> <span itemprop="addressCountry">FRANCE</span></address>
+
 roles: []
 ---

@@ -7,11 +7,19 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      x: >-
-        https://twitter.com/classcode_fr
-      linkedin: >-
-        https://www.linkedin.com/company/association-class-code/
+    contact_details:
+      social_networks:
+        linkedin:
+          label: >-
+            association-class-code
+          value: >-
+            https://www.linkedin.com/company/association-class-code/
+        x:
+          label: >-
+            classcode_fr
+          value: >-
+            https://x.com/classcode_fr
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
