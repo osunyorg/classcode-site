@@ -4,28 +4,33 @@ items:
 - title: Nos Moocs
   target: "/moocs/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/moocs"
   file: content/fr/pages/moocs/_index.html
 - title: Nos actions
   target: "/services/"
   kind: page
+  new_tab: false
   children:
   - title: Création de ressources
     target: "/services/creation-ressources/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/services/creation-ressources"
     file: content/fr/pages/services/creation-ressources/_index.html
   - title: Animation de formations
     target: "/services/animation-de-formation/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/services/animation-de-formation"
     file: content/fr/pages/services/animation-de-formation/_index.html
   - title: Projets partenaires
     target: "/services/projets-partenaires/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/services/projets-partenaires"
     file: content/fr/pages/services/projets-partenaires/_index.html
@@ -34,34 +39,40 @@ items:
 - title: L'association
   target: "/association/qui-sommes-nous/"
   kind: page
+  new_tab: false
   children:
   - title: Présentation
     target: "/association/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/association"
     file: content/fr/pages/association/_index.html
   - title: Qui sommes-nous ?
     target: "/association/qui-sommes-nous/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/association/qui-sommes-nous"
     file: content/fr/pages/association/qui-sommes-nous/_index.html
   - title: Nos valeurs
     target: "/association/education-au-numerique/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/association/education-au-numerique"
     file: content/fr/pages/association/education-au-numerique/_index.html
   - title: Adhérer
     target: "/association/adherer/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/association/adherer"
     file: content/fr/pages/association/adherer/_index.html
   - title: Nos partenaires
     target: "/association/nos-partenaires/"
     kind: page
+    new_tab: false
     children: []
     path: "/pages/association/nos-partenaires"
     file: content/fr/pages/association/nos-partenaires/_index.html
@@ -70,6 +81,7 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
