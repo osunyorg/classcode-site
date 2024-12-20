@@ -8,6 +8,7 @@ allowed_domains:
   - "plausible.io"
   - "dailymotion.com"
   - "www.dailymotion.com"
+  - "geo.dailymotion.com"
   - "dai.ly"
   - "*.dmcdn.net"
   - "vimeo.com"
