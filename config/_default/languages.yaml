@@ -24,6 +24,7 @@ fr:
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
+    programs_categories: /offre-de-formation/categories/:slug/
     programs: /offre-de-formation/:slug/
     organizations: /partenaires/:slug/
     organizations_categories: /partenaires/categories/:slug/
@@ -43,6 +44,7 @@ fr:
     pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
+    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers
