@@ -2,6 +2,11 @@
 
 baseURL: https://www.class-code.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 1bb0f013-4d3d-49be-84bc-087c8cff3c77
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
