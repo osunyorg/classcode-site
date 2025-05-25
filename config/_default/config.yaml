@@ -1,14 +1,12 @@
 theme: osuny
-paginate: 18
-enableRobotsTXT: true
-removePathAccents: true
+_merge: deep
 params:
   plausible: class-code.fr
   search:
     active: true
   posts:
     index:
-      options: 
+      options:
         categories: false
   logo:
     footer: "/assets/images/logo-footer.svg"
