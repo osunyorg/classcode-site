@@ -21,20 +21,6 @@ fr:
           value: >-
             https://x.com/classcode_fr
 
-  permalinks:
-    pages_categories: /:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
-    programs_categories: /offre-de-formation/categories/:slug/
-    programs: /offre-de-formation/:slug/
-    organizations: /partenaires/:slug/
-    organizations_categories: /partenaires/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    administrators: /equipe/:slug/roles/
-    authors: /equipe/:slug/actualites/
-    researchers: /equipe/:slug/publications/
-    teachers: /equipe/:slug/programs/
   taxonomies:
     administrator: administrators
     author: authors
