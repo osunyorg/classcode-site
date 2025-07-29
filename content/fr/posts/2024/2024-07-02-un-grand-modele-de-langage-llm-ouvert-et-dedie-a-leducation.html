@@ -72,16 +72,22 @@ header_cta:
   target: ""
   external: false
 posts_categories:
+  - "actualite"
   - "actualite/class-code"
   - "services/mooc"
   - "offre-de-formation/l-intelligence-articficielle-avec-intelligence"
-  - "actualite"
 taxonomies:
   - name: >-
       Catégories
     slug: ""
     path: ""
     categories:
+      - permalink: "/actualites/actualite/"
+        path: "/posts_categories/actualite"
+        slug: "actualite"
+        file: "content/fr/posts_categories/actualite/_index.html"
+        name: >-
+          Actualité
       - permalink: "/actualites/actualite/class-code/"
         path: "/posts_categories/actualite/class-code"
         slug: "actualite/class-code"
@@ -94,12 +100,6 @@ taxonomies:
         file: "content/fr/posts_categories/services/mooc/_index.html"
         name: >-
           Ressources pedagogiques
-      - permalink: "/actualites/actualite/"
-        path: "/posts_categories/actualite"
-        slug: "actualite"
-        file: "content/fr/posts_categories/actualite/_index.html"
-        name: >-
-          Actualité
 
   - name: >-
       Offre de formation
