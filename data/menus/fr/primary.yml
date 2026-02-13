@@ -2,87 +2,119 @@
 title: Primary
 items:
 - title: Nos Moocs
+  slug: nos-moocs
   target: "/moocs/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/moocs"
   file: content/fr/pages/moocs/_index.html
 - title: Nos actions
+  slug: nos-actions
   target: "/services/"
   kind: page
   new_tab: false
   children:
   - title: Création de ressources
+    slug: creation-de-ressources
     target: "/services/creation-ressources/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/services/creation-ressources"
     file: content/fr/pages/services/creation-ressources/_index.html
   - title: Animation de formations
+    slug: animation-de-formations
     target: "/services/animation-de-formation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/services/animation-de-formation"
     file: content/fr/pages/services/animation-de-formation/_index.html
   - title: Projets partenaires
+    slug: projets-partenaires
     target: "/services/projets-partenaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/services/projets-partenaires"
     file: content/fr/pages/services/projets-partenaires/_index.html
+  descendants_targets:
+  - "/services/animation-de-formation/"
+  - "/services/creation-ressources/"
+  - "/services/projets-partenaires/"
   path: "/pages/services"
   file: content/fr/pages/services/_index.html
 - title: L'association
+  slug: l-association
   target: "/association/qui-sommes-nous/"
   kind: page
   new_tab: false
   children:
   - title: Présentation
+    slug: presentation
     target: "/association/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/association"
     file: content/fr/pages/association/_index.html
   - title: Qui sommes-nous ?
+    slug: qui-sommes-nous
     target: "/association/qui-sommes-nous/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/association/qui-sommes-nous"
     file: content/fr/pages/association/qui-sommes-nous/_index.html
   - title: Nos valeurs
+    slug: nos-valeurs
     target: "/association/education-au-numerique/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/association/education-au-numerique"
     file: content/fr/pages/association/education-au-numerique/_index.html
   - title: Adhérer
+    slug: adherer
     target: "/association/adherer/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/association/adherer"
     file: content/fr/pages/association/adherer/_index.html
   - title: Nos partenaires
+    slug: nos-partenaires
     target: "/association/nos-partenaires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/association/nos-partenaires"
     file: content/fr/pages/association/nos-partenaires/_index.html
+  descendants_targets:
+  - "/association/"
+  - "/association/adherer/"
+  - "/association/education-au-numerique/"
+  - "/association/nos-partenaires/"
+  - "/association/qui-sommes-nous/"
   path: "/pages/association/qui-sommes-nous"
   file: content/fr/pages/association/qui-sommes-nous/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 
